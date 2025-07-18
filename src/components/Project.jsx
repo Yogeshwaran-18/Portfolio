@@ -13,7 +13,7 @@ const Project = () => {
           className="text-left space-y-2 border-2 hover:scale-105 transition-all duration-200 cursor-pointer px-8 py-10 border-teal-500 rounded-lg hover:bg-teal-50"
         >
           <h1 className='text-3xl font-semibold'>Project</h1>
-          <h3 className='text-xl text-gray-700'>ONLINE FOOD ORDERING WEBSITE</h3>
+          <h3 className='text-xl text-gray-700'>Online Food Website</h3>
           <p className='text-sm text-gray-600'>
             Developed a fully responsive food ordering web app with React.js, improving user experience and engagement. Implemented user authentication and cart functionality using Redux/Context API.
           </p>
@@ -21,29 +21,29 @@ const Project = () => {
 
         {/* Plant Disease Prediction */}
         <a
-          href="https://github.com/yourusername/plant-disease-prediction"
+          href="https://github.com/Yogeshwaran-18/Plant-Disease-Prediction"
           target="_blank"
           rel="noopener noreferrer"
           className="text-left space-y-2 border-2 hover:scale-105 transition-all duration-200 cursor-pointer px-8 py-10 border-teal-500 rounded-lg hover:bg-teal-50"
         >
           <h1 className='text-3xl font-semibold'>Project</h1>
-          <h3 className='text-xl text-gray-700'>PLANT DISEASE PREDICTION</h3>
+          <h3 className='text-xl text-gray-700'>Plant Disease Prediction</h3>
           <p className='text-sm text-gray-600'>
             Created a CNN model using TensorFlow and Keras, achieving 97.8% training and 94.6% validation accuracy. Improved model robustness and reduced prediction errors significantly.
           </p>
         </a>
 
-        {/* Breast Cancer Report Analyze */}
+        {/* Weather App */}
         <a
-          href="https://github.com/yourusername/breast-cancer-analysis"
+          href="https://github.com/Yogeshwaran-18/Weather-App"
           target="_blank"
           rel="noopener noreferrer"
           className="text-left space-y-2 border-2 hover:scale-105 transition-all duration-200 cursor-pointer px-8 py-10 border-teal-500 rounded-lg hover:bg-teal-50"
         >
           <h1 className='text-3xl font-semibold'>Project</h1>
-          <h3 className='text-xl text-gray-700'>BREAST CANCER REPORT ANALYZE</h3>
+          <h3 className='text-xl text-gray-700'>Weather App</h3>
           <p className='text-sm text-gray-600'>
-            Built a breast cancer analysis tool using Python and Scikit-learn, achieving 95% accuracy. Used Seaborn and Matplotlib for effective medical data visualization.
+            Built a mobile-responsive weather forecasting web app using React.js and OpenWeatherMap API. Integrated live weather data with hourly and weekly forecasts, animated UI with Framer Motion, and user location detection using geolocation. Implemented dark mode and temperature unit toggle, enhancing usability and performance across devices.
           </p>
         </a>
 
